@@ -1,0 +1,119 @@
+.raip{
+    display: flex;
+    gap: 180px;
+    /* justify-items: end;
+     */
+     /* justify-content: space-between; */
+     /* align-items: center;  */
+    /* width: 800px;
+    margin-left: auto;
+    margin-right: auto; */
+    /* justify-items: center;  */
+    
+}
+
+.inline{
+    /* display: flex; */
+    margin-top: 140px;
+    /* display: inline; */
+}
+h1{
+    color: blue;
+    text-align: left;
+    padding-top: 100px;
+    padding-left: 200px;
+    /* font: bold; */
+    font-size: 60px;
+}
+
+/* .create{
+    text-align: center;
+    margin-left: 200px; 
+} */
+.pare{
+   text-decoration: underline;
+   font-size: larger;
+   text-align: right;
+   color: rgb(0, 0, 0);
+}
+
+.help{
+    padding-left: 200px;
+    font-size: 25px;
+    /* margin-right: 200px; */
+} 
+*{
+    margin: 0%;
+    background-color: #f0f8ff;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.center{
+    /* text-align: right; */
+    background-color: #ffffff;
+    border: 5px solid #ffffff;
+    /* border padding: 50 30 200 350; */
+    /* box-sizing: border-box; */
+    /* borde;: 32%; */
+    /* border-right: 32%; */
+    padding: 10px;
+    /* margin-left: px; */
+    /* margin-right: 230px; */
+    margin-top: 140px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 8px  rgb(214, 213, 213);
+   /* display:inline; */
+
+}
+
+button{
+    /* text-decoration-color: #ffffff; */
+    /* background-color: blue; */}
+.account{
+        /* height: 40px; width: 380px; */
+        background-color: rgb(46, 189, 3);
+        text-align: center;
+        border: #ffffff;
+        border-radius: 5px;
+        height: 47px; width: 200px;
+        margin-left: 90px;
+        color: #ffffff;
+        font-size: 19px;
+    }
+    
+    
+
+.log{
+    text-align: center;
+    color: #ffffff;
+    background-color: blue;
+    height: 45px; width: 350px;
+    border-radius: 5px;
+    border: blue;
+}
+input{
+    height: 45px; width: 350px;
+    text-align: left;
+    border: 0.5px solid #aaaaaa ;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+#foru{
+    text-align: center;
+    /* margin-left: 20px; */
+    text-decoration: underline;
+    color: rgb(42, 42, 206);
+    margin-right: 20px;
+    background-color: #ffffff;
+    border: #c5c5c5;
+    border-radius: 5px;
+    height: 40px; width: 350px;
+    font-size: small;
+
+}
+.page{
+    text-align: right;
+    padding-right: 250px;
+    font-size: small;
+    /* display: block; */
+}
